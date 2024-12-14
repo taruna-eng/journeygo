@@ -285,7 +285,7 @@ nav h1 {
     background-color: #111;
     position: relative;
     background-size: cover;
-    background-image: url(./earth.png);
+    background-image: url(earth.png);
     display: flex;
     align-items: center;
     justify-content: center;
